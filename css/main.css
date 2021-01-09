@@ -15,7 +15,7 @@
 
 .img-logo{
     width: 250px;
-    margin-bottom: 15%;
+    margin: 8% 0px;
 }
 
 .item-container{
@@ -28,6 +28,11 @@
     margin: 10px 0px;
     border-radius: 35px;
     border: 1px solid gray;
+
+}
+
+.item2{
+    margin-bottom: 8%;
 }
 
 .resultTitle{

@@ -16,8 +16,6 @@ function RandomColor(){
 
     var first  = ArrayColorList[randomColor];
     var secound = ArrayColorList[randomColorSecound];
-
-
     
     if(secound === first){
         document.querySelector(".resultTitle").innerHTML = "Winner!";
