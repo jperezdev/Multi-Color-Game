@@ -20,7 +20,6 @@
 
 .item-container{
     width: 100%;
-    margin-bottom: 30%;
 }
 
 .item{
@@ -38,6 +37,7 @@
 .resultTitle{
     color: #000;
     font-size: 30px;
+    margin-bottom: 5%;
 }
 
 .instructions{
